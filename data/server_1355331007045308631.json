@@ -1,0 +1,25 @@
+{
+    "user_collection": {
+        "829809466983579718": [
+            {
+                "name": "Black Swan",
+                "image": "https://th.bing.com/th/id/OIP.EJl44Bukc9QdJkBjNtEOhQHaLc?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            }
+        ],
+        "1355329182963339334": [
+            {
+                "name": "Skrull 77",
+                "image": "https://i.pinimg.com/originals/27/a6/3f/27a63ffeebec26ff27411dc421b60173.jpg",
+                "rarity": "Common",
+                "chance": 0.2
+            }
+        ]
+    },
+    "claimed_characters": {
+        "Skrull 12": "829809466983579718",
+        "Skrull 77": "829809466983579718",
+        "Black Swan": "829809466983579718"
+    }
+}

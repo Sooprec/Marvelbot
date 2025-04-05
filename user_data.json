@@ -1,0 +1,18 @@
+{
+    "829809466983579718": [
+        {
+            "name": "Scarlet Witch",
+            "image": "https://th.bing.com/th/id/R.4757b3aa9482ad9ce69cf549f9e4b2e2?rik=c2b4Z7VocXmtog&riu=http%3a%2f%2fcomichomeworld.com%2fwp-content%2fuploads%2f2017%2f02%2fSW.jpg&ehk=S%2fVyJwnAMl5MnIxK%2fN2uNIdU8fNBVY8bL0WpFkF%2bGLc%3d&risl=&pid=ImgRaw&r=0",
+            "rarity": "Epic",
+            "chance": 0.05
+        }
+    ],
+    "829809466983579718": [
+        {
+            "name": "Deadpool",
+            "image": "https://2.bp.blogspot.com/WP0bDIVX4x69MytzjdWErt9ECmVz8vFdFTDmf-iKGtqdw_zok6x_43uph97uV9mN1WRoXAgun7A=s0",
+            "rarity": "Rare",
+            "chance": 0.15
+        }
+    ]
+}

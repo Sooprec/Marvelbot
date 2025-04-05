@@ -1,0 +1,291 @@
+{
+    "user_collection": {
+        "829809466983579718": [
+            {
+                "name": "Hulk",
+                "image": "https://i.pinimg.com/originals/4a/bc/a8/4abca8abdfda6359581be1153434266f.jpg",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Kraven the Hunter",
+                "image": "https://i.pinimg.com/originals/34/27/5b/34275b89630f7ed24837f05c3bfa1168.jpg",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Iron Fist",
+                "image": "https://th.bing.com/th/id/R.7364579ca55a32e6456c67a2702797e8?rik=3a2BrSd7yw7K%2bg&pid=ImgRaw&r=0",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Gwenpool ",
+                "image": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6633324-05-variant.jpg",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Mr.Knight",
+                "image": "https://th.bing.com/th/id/R.99f46f932365c1db263f2d4766571070?rik=AvErdWRnvVaGCA&pid=ImgRaw&r=0",
+                "rarity": "Legendary",
+                "chance": 0.02
+            },
+            {
+                "name": "Mystique",
+                "image": "https://th.bing.com/th/id/OIP.MprsXtM6zEKeUYkGUHbJMAHaNK?rs=1&pid=ImgDetMain",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Carnage",
+                "image": "https://th.bing.com/th/id/OIP.wOuuWsvrwUQH6rg2EcwunAHaLH?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            }
+        ],
+        "777508717792460802": [
+            {
+                "name": "Skrull 19",
+                "image": "https://i.pinimg.com/originals/27/a6/3f/27a63ffeebec26ff27411dc421b60173.jpg",
+                "rarity": "Common",
+                "chance": 0.2
+            }
+        ],
+        "952332229474943036": [
+            {
+                "name": "Viper",
+                "image": "https://i.pinimg.com/originals/cd/2f/f0/cd2ff09ee13463e865dd74b64d5ead70.jpg",
+                "rarity": "Common",
+                "chance": 0.2
+            },
+            {
+                "name": "Silver Surfer",
+                "image": "https://th.bing.com/th/id/R.917963c584a3c94ef01605176bb5fbd0?rik=eaLSckEkdVsv9g&riu=http%3a%2f%2fimg3.wikia.nocookie.net%2f__cb20140502162102%2fmarvel-comics%2fde%2fimages%2f9%2f92%2fSilver_Surfer.jpg&ehk=iJWo5VEYHG2Hdfip1HRc8NJvXfEXAQRvE7Uq42JpQJ0%3d&risl=&pid=ImgRaw&r=0",
+                "rarity": "Legendary",
+                "chance": 0.02
+            },
+            {
+                "name": "High Evolutionary",
+                "image": "https://th.bing.com/th/id/R.6f56eaffb6dc0aaa9c950a6ee2c7a329?rik=Lt%2bR%2bgIX6aUmXw&pid=ImgRaw&r=0",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Thena",
+                "image": "https://i.pinimg.com/originals/32/e7/bf/32e7bf68e95b1ae0e933e9fcc80ce64a.jpg",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Gamora",
+                "image": "https://thecomicbooksanctum.files.wordpress.com/2023/04/gamora_zen_whoberi_ben_titan_28earth-752829_from_guardians_of_the_galaxy_vol_6_13_cover_001.jpg",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Vision",
+                "image": "https://th.bing.com/th/id/R.3fd34e23eebe0d0d4f53a45c8165c4d1?rik=3bQ26P8N8qNVjQ&pid=ImgRaw&r=0",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Valkyrie",
+                "image": "https://th.bing.com/th/id/R.79da9ae41bee6f27028fff8ebb4609a1?rik=zeOVmn%2bJm8wShQ&pid=ImgRaw&r=0",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Spider-Man",
+                "image": "https://th.bing.com/th/id/R.6d5275caa41a9a7a496ad7e973d88939?rik=jYP6ATpyJVEXQw&pid=ImgRaw&r=0",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "NorthStar",
+                "image": "https://i.pinimg.com/originals/66/c4/70/66c4704583b875c6933296de905325fc.jpg",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Sersi",
+                "image": "https://th.bing.com/th/id/OIP.xRkNpBJfMJc3kKdqjlx_hQHaLb?rs=1&pid=ImgDetMain",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Rogue",
+                "image": "https://th.bing.com/th/id/OIP.rkiSQE-DWDQNCi2TO8rnfgHaLU?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Invisible Women",
+                "image": "https://i.pinimg.com/736x/47/b6/b6/47b6b62ee036cffb8f6c067a9ea7a6a7.jpg",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Cable",
+                "image": "https://i.pinimg.com/originals/8c/a7/6d/8ca76da466892b5544e24a41675f7a37.jpg",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Mr.Fantastic",
+                "image": "https://i.pinimg.com/736x/c0/d0/10/c0d01028e5dd09654509fef5aea17beb--mister-fantastic-fantastic-four-marvel.jpg",
+                "rarity": "Epic",
+                "chance": 0.05
+            }
+        ],
+        "925038817067552778": [
+            {
+                "name": "Dagger",
+                "image": "https://th.bing.com/th/id/OIP.FdwKBDNMzcI4OMy2bcfEYgHaJo?rs=1&pid=ImgDetMain",
+                "rarity": "Common",
+                "chance": 0.2
+            },
+            {
+                "name": "Kate Bishop",
+                "image": "https://th.bing.com/th/id/OIP.is8ae6rRekqPoFSMG7pBAgAAAA?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Drax",
+                "image": "https://i.pinimg.com/originals/f9/fc/1f/f9fc1f7e53bd79a8f5c54b319ddf7030.jpg",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Sif",
+                "image": "https://th.bing.com/th/id/OIP.fb3N6UJ2_DYBlcrjlFvfTgHaLh?rs=1&pid=ImgDetMain",
+                "rarity": "Common",
+                "chance": 0.2
+            },
+            {
+                "name": "Morgan Le Fay",
+                "image": "https://th.bing.com/th/id/OIP.xcSjeA8D-VQEjYgXgFQ81QHaK1?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Mobius",
+                "image": "https://th.bing.com/th/id/OIP.l__rqb4DXpPgXh2gJdT7egAAAA?rs=1&pid=ImgDetMain",
+                "rarity": "Common",
+                "chance": 0.2
+            },
+            {
+                "name": "Lilith",
+                "image": "https://i.pinimg.com/736x/9c/1f/e0/9c1fe0189f0ebd40d4b99cffd585be39.jpg",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Ghost",
+                "image": "https://th.bing.com/th/id/R.0ad6206df17199e6209782a28955ea2f?rik=7F4JPi8sGcHOJA&pid=ImgRaw&r=0",
+                "rarity": "Common",
+                "chance": 0.2
+            },
+            {
+                "name": "Pepper Potts",
+                "image": "https://i.pinimg.com/736x/67/98/fa/6798faa367d6269e4cc8719d65ad2eca.jpg",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Frigga",
+                "image": "https://th.bing.com/th/id/R.2683ea4d382c83fef7e072d069856f9a?rik=tcMKki6Ia2cJEQ&pid=ImgRaw&r=0",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Mantis",
+                "image": "https://th.bing.com/th/id/OIP.1-GMJcSSZC7RJKyjlUmTEAAAAA?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            },
+            {
+                "name": "Ladypool",
+                "image": "https://i.pinimg.com/736x/cc/41/97/cc41970b98ecb22db8f8b91862ddca35.jpg",
+                "rarity": "Epic",
+                "chance": 0.05
+            },
+            {
+                "name": "Thor",
+                "image": "https://i.pinimg.com/originals/df/f1/dd/dff1ddc600819e5f1aa8e95a788d5584.jpg",
+                "rarity": "Legendary",
+                "chance": 0.02
+            },
+            {
+                "name": "Yondu",
+                "image": "https://th.bing.com/th/id/R.e43715ecd1a3ee1e4969b64483d6b37d?rik=2an1H7eKtZc1DA&pid=ImgRaw&r=0",
+                "rarity": "Common",
+                "chance": 0.2
+            },
+            {
+                "name": "Nightcrawler",
+                "image": "https://th.bing.com/th/id/OIP.9PULv7rjEJZHZ3HvkwN45QHaLP?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            }
+        ],
+        "1170497856789037119": [
+            {
+                "name": "Daredevil",
+                "image": "https://th.bing.com/th/id/OIP.-iE_v4Oiyvt1MjTotKzuSAHaLY?rs=1&pid=ImgDetMain",
+                "rarity": "Legendary",
+                "chance": 0.02
+            }
+        ],
+        "755152008687648859": [
+            {
+                "name": "Black Knight",
+                "image": "https://th.bing.com/th/id/OIP.q-6O8SKljM8MPFEKWe9CbQAAAA?rs=1&pid=ImgDetMain",
+                "rarity": "Rare",
+                "chance": 0.15
+            }
+        ]
+    },
+    "claimed_characters": {
+        "Skrull 19": "829809466983579718",
+        "Skrull 2": "777508717792460802",
+        "Viper": "952332229474943036",
+        "Dagger": "925038817067552778",
+        "Kate Bishop": "925038817067552778",
+        "Silver Surfer": "925038817067552778",
+        "Mobius": "952332229474943036",
+        "High Evolutionary": "952332229474943036",
+        "Drax": "925038817067552778",
+        "Sif": "925038817067552778",
+        "Morgan Le Fay": "925038817067552778",
+        "Thena": "952332229474943036",
+        "Gamora": "952332229474943036",
+        "Vision": "952332229474943036",
+        "Daredevil": "952332229474943036",
+        "Lilith": "925038817067552778",
+        "Ghost": "925038817067552778",
+        "Pepper Potts": "925038817067552778",
+        "Valkyrie": "952332229474943036",
+        "Frigga": "952332229474943036",
+        "Spider-Man": "952332229474943036",
+        "Mantis": "925038817067552778",
+        "Ladypool": "925038817067552778",
+        "NorthStar": "925038817067552778",
+        "Thor": "925038817067552778",
+        "Kraven the Hunter": "829809466983579718",
+        "Sersi": "952332229474943036",
+        "Rogue": "952332229474943036",
+        "Iron Fist": "829809466983579718",
+        "Invisible Women": "952332229474943036",
+        "Gwenpool ": "829809466983579718",
+        "Black Knight": "755152008687648859",
+        "Cable": "952332229474943036",
+        "Mr.Knight": "829809466983579718",
+        "Mystique": "829809466983579718",
+        "Yondu": "829809466983579718",
+        "Nightcrawler": "925038817067552778",
+        "Mr.Fantastic": "952332229474943036",
+        "Carnage": "829809466983579718"
+    }
+}
